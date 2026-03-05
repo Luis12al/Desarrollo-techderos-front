@@ -190,13 +190,13 @@ const LoginForm = ({ onNavigate }) => {
         
         <div className="text-center mb-8">
           <h1 className="text-3xl font-bold bg-gradient-to-r from-[#007BFF] to-[#FF6F00] bg-clip-text text-transparent mb-2">
-            TECH_DEROS
+            HomeViewBCA
           </h1>
           <p className="text-gray-600 text-sm font-medium">
-            Transformando tenderos en
+            Transformando su negocio
           </p>
           <p className="text-[#7ED957] text-sm font-bold">
-            micropymes tecnológicas ✨
+            De lo tradicional a lo extraordinario
           </p>
         </div>
 
